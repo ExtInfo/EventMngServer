@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+              "allowJs": false,
+              "emitDecoratorMetadata": true,
+              "experimentalDecorators": true,
+              "forceConsistentCasingInFileNames": true,
+              "outDir": "./build",
+              "module": "commonjs",
+              "moduleResolution": "node",
+              "target": "esnext",
+              "sourceMap": false,
+              "noImplicitAny": false,
+              "noImplicitReturns": false,
+              "noImplicitThis": false,
+              "noUnusedParameters": false,
+              "removeComments": true
+            },
+        "includes":["./src"],
+        "exclude":[]
+        
+}
